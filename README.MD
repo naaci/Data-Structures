@@ -1,1 +1,2 @@
-[linked lists](python-linked-lists.ipynb)
+- [linked lists](python-linked-lists.ipynb)
+- [trees](python-trees.ipynb)
