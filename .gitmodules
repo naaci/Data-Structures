@@ -1,0 +1,54 @@
+[submodule "tales-of-1001-data"]
+	path = tales-of-1001-data
+	url = https://github.com/walkenho/tales-of-1001-data.git
+[submodule "graph-theory"]
+	path = graph-theory
+	url = https://github.com/lipinski/graph-theory.git
+[submodule "student-projects/220029802"]
+	path = student-projects/220029802
+	url = https://github.com/ArtemParshyn/iso9960_reader.git
+[submodule "student-projects/210029019"]
+	path = student-projects/210029019
+	url = https://github.com/Ayberkb1/dataproject.git
+[submodule "student-projects/210029003"]
+	path = student-projects/210029003
+	url = https://github.com/enesersoz/ISO-9660Reader.git
+[submodule "student-projects/210029016"]
+	path = student-projects/210029016
+	url = https://github.com/HasanK07/ISO9660-READER-PROGRAM.git
+[submodule "student-projects/210029007"]
+	path = student-projects/210029007
+	url = https://github.com/ibrahimercosman/odevv.py.git
+[submodule "student-projects/220029811"]
+	path = student-projects/220029811
+	url = https://github.com/imranborzov/iso9960reader1.git
+[submodule "student-projects/210029012"]
+	path = student-projects/210029012
+	url = https://github.com/izgi-gkcnr/pythonProject5.git
+[submodule "student-projects/210029009"]
+	path = student-projects/210029009
+	url = https://github.com/Mozyurek/ISO-9660reader.git
+[submodule "student-projects/200029007"]
+	path = student-projects/200029007
+	url = https://github.com/oguzuo/Implement-a--ISO9660-File-System-Reader.git
+[submodule "student-projects/210029017"]
+	path = student-projects/210029017
+	url = https://github.com/Ahmet417/odev.py.git
+[submodule "student-projects/210029005"]
+	path = student-projects/210029005
+	url = https://github.com/ysrhuseyin/ISO9660-reader.git
+[submodule "student-projects/210029015"]
+	path = student-projects/210029015
+	url = https://github.com/ozanokutan/DataStructures.git
+[submodule "student-projects/210029018"]
+	path = student-projects/210029018
+	url = https://github.com/uurktk/ISO9960FileReaderSystem.git
+[submodule "student-projects/210029021"]
+	path = student-projects/210029021
+	url = https://github.com/iskburcin/ISO9660Reader.git
+[submodule "student-projects/220029801"]
+	path = student-projects/220029801
+	url = https://github.com/ChilL-Q/iso9960parser.git
+[submodule "student-projects/220029803"]
+	path = student-projects/220029803
+	url = https://github.com/LiyanaKh/ISO9660.git
